@@ -28,6 +28,12 @@ menu:
 **关于Bing每日壁纸**
 
 不出意外这个站点会长期每日更新[bing中国版首页][1]壁纸以及当天接口对应的`json`信息.
+如果你需要在站点使用bing每日图片,可直接引用,目前有1080P以及4K(及以上更高分辨率)两种图片尺寸。
+```html
+<img src="https://bing.lvmoo.com/bing.jpg"  alt="Bing每日图片_UHD" />
+
+<img src="https://bing.lvmoo.com/bing_1080p.jpg"  alt="Bing每日图片_1080p" />
+```
 
 
 **站点构建信息**
