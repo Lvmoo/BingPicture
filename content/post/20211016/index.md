@@ -1,0 +1,51 @@
+---
+layout: post
+cid: 20211016
+title: Bing每日图片20211016
+slug: 20211016
+date: 2021-10-16T00:22:02+08:00
+lastmod: 2021-10-16T00:22:02+08:00
+status: publish
+draft: false
+author: Kay
+hidden: false
+image: OHR.Hatshepsut_ZH-CN4516192627_1920x1080.jpg
+description: 哈特谢普苏特女王神庙鸟瞰图，埃及卢克索古城 (© Ratnakorn Piyasirisorost/Moment/Getty Images)
+categories: 
+  - Bing每日图片
+tags: 
+  - 202110
+  - 2021
+  - 每日图片
+---
+![哈特谢普苏特女王神庙鸟瞰图，埃及卢克索古城 (© Ratnakorn Piyasirisorost/Moment/Getty Images)](OHR.Hatshepsut_ZH-CN4516192627_1920x1080.jpg)
+```json
+{
+  "images": [
+    {
+      "startdate": "20211015",
+      "fullstartdate": "202110151600",
+      "enddate": "20211016",
+      "url": "/th?id=OHR.Hatshepsut_ZH-CN4516192627_1920x1080.jpg&rf=LaDigue_1920x1080.jpg&pid=hp",
+      "urlbase": "/th?id=OHR.Hatshepsut_ZH-CN4516192627",
+      "copyright": "哈特谢普苏特女王神庙鸟瞰图，埃及卢克索古城 (© Ratnakorn Piyasirisorost/Moment/Getty Images)",
+      "copyrightlink": "https://www.bing.com/search?q=%E5%93%88%E7%89%B9%E8%B0%A2%E6%99%AE%E8%8B%8F%E7%89%B9%E5%A5%B3%E7%8E%8B%E7%A5%9E%E5%BA%99&form=hpcapt&mkt=zh-cn",
+      "title": "",
+      "quiz": "/search?q=Bing+homepage+quiz&filters=WQOskey:%22HPQuiz_20211015_Hatshepsut%22&FORM=HPQUIZ",
+      "wp": true,
+      "hsh": "63a1c81889711ed97944ce33968327c7",
+      "drk": 1,
+      "top": 1,
+      "bot": 1,
+      "hs": []
+    }
+  ],
+  "tooltips": {
+    "loading": "正在加载...",
+    "previous": "上一个图像",
+    "next": "下一个图像",
+    "walle": "此图片不能下载用作壁纸。",
+    "walls": "下载今日美图。仅限用作桌面壁纸。"
+  }
+}
+```
