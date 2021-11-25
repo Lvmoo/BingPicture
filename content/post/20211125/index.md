@@ -3,8 +3,8 @@ layout: post
 cid: 20211125
 title: Bing每日图片20211125
 slug: 20211125
-date: 2021-11-25T00:22:04+08:00
-lastmod: 2021-11-25T00:22:04+08:00
+date: 2021-11-25T14:32:03+08:00
+lastmod: 2021-11-25T14:32:03+08:00
 status: publish
 draft: false
 author: Kay
