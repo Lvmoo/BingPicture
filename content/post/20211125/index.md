@@ -10,7 +10,7 @@ draft: false
 author: Kay
 hidden: false
 image: OHR.SquirrelsCairngorms_ZH-CN9369511507_1920x1080.jpg
-description: 凯恩戈姆山国家公园的欧亚红松鼠，苏格兰高地 (© Scotland: The Big Picture/Minden Pictures)
+description: 凯恩戈姆山国家公园的欧亚红松鼠，苏格兰高地 (© Scotland The Big Picture/Minden Pictures)
 categories: 
   - Bing每日图片
 tags: 
